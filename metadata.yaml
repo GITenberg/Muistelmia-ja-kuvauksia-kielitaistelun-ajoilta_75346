@@ -1,0 +1,29 @@
+_repo: Muistelmia-ja-kuvauksia-kielitaistelun-ajoilta_75346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lagus, F. H. B.
+    alias: Lagus, Frithiof Henrik Bernhard
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '33059'
+    url: http://www.gutenberg.org/2009/agents/33059
+    wikipedia: https://fi.wikipedia.org/wiki/F._H._B._Lagus
+description: ''
+gutenberg_issued: '2025-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75346'
+language: fi
+pgterms:marc905: 20250208114118lagus
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Scanned and digitized by Petteri Pitkänen
+publication_note: '  $aPorvoo :$bWerner Söderström osakeyhtiö, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Muistelmia ja kuvauksia kielitaistelun ajoilta
+url: http://www.gutenberg.org/ebooks/75346
