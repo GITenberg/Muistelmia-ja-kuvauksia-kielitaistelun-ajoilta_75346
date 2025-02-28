@@ -1,5 +1,8 @@
 _repo: Muistelmia-ja-kuvauksia-kielitaistelun-ajoilta_75346
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagus, F. H. B.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33059
     wikipedia: https://fi.wikipedia.org/wiki/F._H._B._Lagus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75346#Muistelmia-ja-kuvauksia-kielitaistelun-ajoilta
 gutenberg_issued: '2025-02-11'
 gutenberg_type: Text
 identifiers:
